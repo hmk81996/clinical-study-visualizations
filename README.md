@@ -36,7 +36,7 @@ tumor_vol_data = {}
     Xpert Learning Assistant provided this code
     final_volumes_series = pd.Series(final_volumes)
 
-10) Xpert Assistant suggestion for correctl accessing dictionary keys and values
+10) Xpert Assistant suggestion for correctly accessing dictionary keys and values
 tumor_vol_df = pd.DataFrame(dict([(k, pd.Series(v)) for k, v in tumor_vol_data.items()]))
 
 11)  code framework which I modified for this data 
