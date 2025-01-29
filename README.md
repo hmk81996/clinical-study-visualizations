@@ -1,5 +1,5 @@
 # clinical-study-visualizations
-Python Visualizations - Data Analytics Course Module 5
+Pandas + Matplotlib Visualizations - Data Analytics Course Module 5
 
 # Task
 Using data generated for a hypothetical pharmaceutical company specializing in anti-cancer medications, I will generate tables and figures needed for a technical report of the clinical study.
@@ -13,4 +13,6 @@ Using data generated for a hypothetical pharmaceutical company specializing in a
 - Calculate correlation and regression.
 
 ## Results
+
+
 
