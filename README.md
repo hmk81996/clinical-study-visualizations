@@ -38,3 +38,14 @@ Correlation and Regression:
 
 ![chart6](images/Fig6.png)
 
+# Analysis
+
+## Observation 1
+There is a strong correlation (.84) and close relationship (as shown by the linear regression) between mouse weight and tumor volume. That is, mice with greater mass showed larger tumor volume.
+
+## Observation 2
+The line plot "Measurements for Mouse b128 Treated with Capomulin" shows that over time, Capomulin treatments resulted in smaller tumor volume in Mouse b128.
+
+## Observation 3
+The bar graphs "Timepoints per Regimen" indicate that Capomulin and Ramicane had substantially more timepoints than other treatments. This may result in more complete and comprehensive data results than other treatments that used fewer timepoints.
+
